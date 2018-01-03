@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/filewatcher.iml
+/filewatcher-app/target/
+/filewatcher-app/filewatcher-app.iml
+/filewatcher-app/scalastyle-output.xml
+/filewatcher-common/target/
+/filewatcher-common/filewatcher-common.iml
+/filewatcher-service/target/
+/filewatcher-service/filewatcher-service.iml
